@@ -62,4 +62,4 @@ A stock market dashboard built with HTML/CSS/JS and the Finnhub API, focused on 
 
 ---
  
-<p align="center"><i>"Build. Learn. Improve. Repeat."</i></p>
+<p align="center"><i>"Learning daily. Ready to contribute."</i></p>
