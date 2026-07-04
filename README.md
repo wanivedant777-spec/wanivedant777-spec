@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Wani</h1>
-<h3 align="center">Second-Year B.Tech (AI/ML) Student | Aspiring Data Scientist 🚀</h3>
+<h3 align="center">Second-Year B.Tech (AI/ML) Student | On the Path to Data Science 🚀</h3>
  
 <p align="center">
 Building AI-powered tools and preparing for hackathons, one commit at a time. 
