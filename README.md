@@ -46,8 +46,8 @@ A stock market dashboard built with HTML/CSS/JS and the Finnhub API, focused on 
 ### 📊 GitHub Stats
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wanivedant777-spec&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=wanivedant777-spec&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=wanivedant777-spec&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=wanivedant777-spec&theme=radical&hide_border=true" height="165"/>
 </p>
 
 ---
